@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2193" } },
+"features": [
+{ "type": "Feature", "properties": { "MB2024_V1_": "3196006", "LANDWATER": "23", "LANDWATER_": "Oceanic", "LAND_AREA_": 0.0, "AREA_SQ_KM": 2170.5607659000002, "Shape_Leng": 0.0 }, "geometry": null }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2193" } },
+"features": [
+{ "type": "Feature", "properties": { "MB2024_V1_": "0016902", "LANDWATER": "11", "LANDWATER_": "Island", "LAND_AREA_": 33.02259064, "AREA_SQ_KM": 33.02259064, "Shape_Leng": 0.0 }, "geometry": null }
+]
+}

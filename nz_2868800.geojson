@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2193" } },
+"features": [
+{ "type": "Feature", "properties": { "MB2024_V1_": "2868800", "LANDWATER": "12", "LANDWATER_": "Mainland", "LAND_AREA_": 0.01334718, "AREA_SQ_KM": 0.01334718, "Shape_Leng": 563.77405918031968 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1407097.60190000012517, 4917630.1398 ], [ 1407023.051300000399351, 4917421.444199999794364 ], [ 1406966.2566, 4917441.717299999669194 ], [ 1407041.0291, 4917650.472500000149012 ], [ 1407097.60190000012517, 4917630.1398 ] ] ] } }
+]
+}
