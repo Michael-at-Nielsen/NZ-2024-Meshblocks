@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2193" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "MB2024_V1_": "3107500", "LANDWATER": "12", "LANDWATER_": "Mainland", "LAND_AREA_": 0.02929138, "AREA_SQ_KM": 0.02929138, "Shape_Leng": 725.54375654261219 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1243410.7834, 4849722.58629999961704 ], [ 1243169.906700000166893, 4849708.176 ], [ 1243162.145399999804795, 4849828.730600000359118 ], [ 1243403.2725, 4849844.1661 ], [ 1243410.7834, 4849722.58629999961704 ] ] ] } }
+{ "type": "Feature", "properties": { "MB2024_V1_": "3107500", "LANDWATER": "12", "LANDWATER_": "Mainland", "LAND_AREA_": 0.02929138, "AREA_SQ_KM": 0.02929138, "Shape_Leng": 725.54375654261219 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.360035500569552, -46.411845264637591 ], [ 168.356900666943915, -46.41184746503815 ], [ 168.356891983014464, -46.410761981053419 ], [ 168.360030783082834, -46.410750714436311 ], [ 168.360035500569552, -46.411845264637591 ] ] ] } }
 ]
 }
